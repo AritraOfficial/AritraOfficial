@@ -9,7 +9,7 @@
 <br>
 
 ## 💫 About Me:
-<img align="right" height= 170 width= 240 src="https://miro.medium.com/v2/resize:fit:679/1*TlbU0F-waQf7_zOfhUNldQ.gif"/>
+<img align="right" height= 150 width= 240 src="https://miro.medium.com/v2/resize:fit:679/1*TlbU0F-waQf7_zOfhUNldQ.gif"/>
 🔭 I’m currently working on GenAI<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Industry Project<br>🌱 I’m currently learning Django, GenAI , DL<br>💬 Ask me about Artificial Intelligence
 
 
