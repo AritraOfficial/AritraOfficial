@@ -1,19 +1,25 @@
-<h1 align="center">Hello guys, I'm 𝓐𝖗𝖎𝖙𝖗𝖆 𝕸𝖚𝖐𝖍𝖊𝖗𝖏𝖊𝖊 </h1>
+<h1 align="center">Hello guys, I'm 𝓐𝖗𝖎𝖙𝖗𝖆 𝕸𝖚𝖐𝖍𝖊𝖗𝖏𝖊𝖊 </h1> 
+<!-- ------------------------------------------------------------------------- -->
+
 <!-- <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀɪ ᴇxᴘʟᴏʀᴀᴛɪᴏɴ & ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3> -->
 <img align= "right" alt="Coder GIF" height=160 width=220 src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 </p>
-<p align = "center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4998&pause=1000&color=F7B711&multiline=true&random=false&width=435&lines=%E1%B4%80+%E1%B4%98%E1%B4%80%EA%9C%B1%EA%9C%B1%C9%AA%E1%B4%8F%C9%B4%E1%B4%80%E1%B4%9B%E1%B4%87+%E1%B4%80%C9%AA+%E1%B4%87x%E1%B4%98%CA%9F%E1%B4%8F%CA%80%E1%B4%80%E1%B4%9B%C9%AA%E1%B4%8F%C9%B4+%26+%E1%B4%85%E1%B4%87%E1%B4%A0%E1%B4%87%CA%9F%E1%B4%8F%E1%B4%98%E1%B4%87%CA%80+%EA%9C%B0%CA%80%E1%B4%8F%E1%B4%8D+%C9%AA%C9%B4%E1%B4%85%C9%AA%E1%B4%80" alt="Typing SVG" /></a> <br >       &nbsp  &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp                  
+<p align = "center"> &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   
+ &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans+SC&size=22&pause=1000&color=F7C529&random=false&width=435&lines=Fueled+by+passion%2C;+this+visionary+pioneers+AI%2C+;shaping+the+future+;with+creativity+and+ingenuity." alt="Typing SVG" /></a> <br >       
+ &nbsp  &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp                
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway+Dots&weight=8000&size=22&pause=1000&color=FF5A56&random=true&width=435&lines=++++++++1.5%2B+years+coding+experience+;++++++++Always+learning+new+things..;+++++++Experienced+on+AIML+field" alt="Contact with aritra" /></a> 
 <!-- website to create this - https://readme-typing-svg.demolab.com/demo/ -->
 <!-- <img height = 50 width= 42 src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" />  -->
 <br>
+<!-- ---------------------------------------------------------------------------- -->
 
+ 
 ## 💫 About Me:
 <img align="right" height= 150 width= 240 src="https://miro.medium.com/v2/resize:fit:679/1*TlbU0F-waQf7_zOfhUNldQ.gif"/>
 🔭 I’m currently working on GenAI<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Industry Project<br>🌱 I’m currently learning Django, GenAI , DL<br>💬 Ask me about Artificial Intelligence
 
-
-
+<!-- ---------------------------------------------------------------------------- -->
 
 ## 🌐 Socials:
  <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](aritramukherjee_official) -->
@@ -22,6 +28,9 @@
 <a href="https://discord.com/users/am_official_"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
 <a href="https://x.com/aritramofficial"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aritra.mukherjee.35762241/) -->
+<!-- ---------------------------------------------------------------------------- -->
+
+
 
 <!--  <summary><h2>💻 Tech Stack  :</h2></summary> --> 
 <!-- <details >    -->
@@ -99,12 +108,14 @@
   </p>
 </details>
 
-
+<!-- ---------------------------------------------------------------------------- -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AritraOfficial&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AritraOfficial&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AritraOfficial&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ---------------------------------------------------------------------------- -->
+
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
