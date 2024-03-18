@@ -4,8 +4,7 @@
 <!-- <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀɪ ᴇxᴘʟᴏʀᴀᴛɪᴏɴ & ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3> -->
 <img align= "right" alt="Coder GIF" height=160 width=220 src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 </p>
-<p align = "center"> &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   
- &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp   
+<p align = "center">    
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya+Sans+SC&size=22&pause=1000&color=F7C529&random=false&width=435&lines=Fueled+by+passion%2C;+this+visionary+pioneers+AI%2C+;shaping+the+future+;with+creativity+and+ingenuity." alt="Typing SVG" /></a> <br >       
  &nbsp  &nbsp  &nbsp &nbsp &nbsp  &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp  &nbsp &nbsp &nbsp &nbsp              
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway+Dots&weight=8000&size=22&pause=1000&color=FF5A56&random=true&width=435&lines=++++++++1.5%2B+years+coding+experience+;++++++++Always+learning+new+things..;+++++++Experienced+on+AIML+field" alt="Contact with aritra" /></a> 
