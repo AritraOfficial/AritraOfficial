@@ -22,12 +22,11 @@
 ## 💫 About Me:
 <img align="right" height= 150 width= 240 src="https://miro.medium.com/v2/resize:fit:679/1*TlbU0F-waQf7_zOfhUNldQ.gif"/>
 <!-- 🔭 I’m currently working on GenAI<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Industry Project<br>🌱 I’m currently learning Django, GenAI , DL<br>💬 Ask me about Artificial Intelligence -->
-🔭 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘎𝘦𝘯𝘈𝘐 <br>
-👯 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘦 𝘰𝘯 𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘤𝘦 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 <br>
-🤝 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘐𝘯𝘥𝘶𝘴𝘵𝘳𝘺 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 <br>
-🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰, 𝘎𝘦𝘯𝘈𝘐, 𝘋𝘓 <br>
-💬 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 <br>
-
+‌🔭 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘎𝘦𝘯𝘈𝘐 ... <br>
+🤝 "𝘐’𝘮 𝘢𝘪𝘮𝘪𝘯𝘨 𝘧𝘰𝘳 𝘢 𝘩𝘪𝘨𝘩-𝘱𝘢𝘺𝘪𝘯𝘨 𝘳𝘰𝘭𝘦 𝘸𝘩𝘦𝘳𝘦 𝘐 𝘤𝘢𝘯 𝘮𝘢𝘬𝘦 𝘢 𝘳𝘦𝘢𝘭 𝘪𝘮𝘱𝘢𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘺 𝘴𝘬𝘪𝘭𝘭𝘴 ...<br>
+👯 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘐𝘯𝘥𝘶𝘴𝘵𝘳𝘺 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 ...<br>
+🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰, 𝘎𝘦𝘯𝘈𝘐, 𝘋𝘓 ...<br>
+💬 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 𝘈𝘳𝘵𝘪𝘧𝘪𝘤𝘪𝘢𝘭 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 ...<br>
 <!-- ---------------------------------------------------------------------------- -->
 
 ## 🌐 Socials:
