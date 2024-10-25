@@ -1,4 +1,8 @@
-<h1 align="center">Hello guys, I'm 𝓐𝖗𝖎𝖙𝖗𝖆 𝕸𝖚𝖐𝖍𝖊𝖗𝖏𝖊𝖊 </h1> 
+<h1 align="center">   ℍ𝕖𝕝𝕝𝕠 𝔾𝕦𝕪𝕤, 𝕀'𝕞</h1> 
+
+                                           ▄▀█ █▀█ █ ▀█▀ █▀█ ▄▀█   █▀▄▀█ █░█ █▄▀ █░█ █▀▀ █▀█ ░░█ █▀▀ █▀▀
+                                           █▀█ █▀▄ █ ░█░ █▀▄ █▀█   █░▀░█ █▄█ █░█ █▀█ ██▄ █▀▄ █▄█ ██▄ ██▄
+                                                       A R I T R A   M U K H E R J E E 
 <!-- ------------------------------------------------------------------------- -->
 
 <!-- <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀɪ ᴇxᴘʟᴏʀᴀᴛɪᴏɴ & ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3> -->
@@ -30,7 +34,7 @@
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/aritra.mukherjee.35762241/) -->
 <!-- ---------------------------------------------------------------------------- -->
 
-
+  
 
 <!--  <summary><h2>💻 Tech Stack  :</h2></summary> --> 
 <!-- <details >    -->
@@ -104,10 +108,10 @@
 <!--       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a> -->
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-
+                                  
   </p>
 </details>
-
+                                                                                                                                                                 
 <!-- ---------------------------------------------------------------------------- -->
 
 # 📊 GitHub Stats:
@@ -117,7 +121,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AritraOfficial&theme=gruvbox&hide_border=false)<br/>
 <!-- ---------------------------------------------------------------------------- -->
 
-
+                                                                 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
