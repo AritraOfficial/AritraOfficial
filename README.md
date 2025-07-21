@@ -1,12 +1,12 @@
 <h1 align="center">   ɴ ᴀ ᴍ ᴀ ꜱ ᴛ ᴇ . . . 𝓘'𝓶 </h1> 
+<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
                                         ▄▀█ █▀█ █ ▀█▀ █▀█ ▄▀█   █▀▄▀█ █░█ █▄▀ █░█ █▀▀ █▀█ ░░█ █▀▀ █▀▀
                                         █▀█ █▀▄ █ ░█░ █▀▄ █▀█   █░▀░█ █▄█ █░█ █▀█ ██▄ █▀▄ █▄█ ██▄ ██▄
                                                        A R I T R A   M U K H E R J E E 
-<!-- ------------------------------------------------------------------------- -->
-
-<!-- <h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀɪ ᴇxᴘʟᴏʀᴀᴛɪᴏɴ & ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3> -->
-<img align= "right" alt="Coder GIF" height=160 width=220 src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">ᴀ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇ ᴀɪ ᴇxᴘʟᴏʀᴀᴛɪᴏɴ & ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ</h3> 
+<img align= "right" alt="Coder GIF" height=260 width=220 src="https://miro.medium.com/v2/resize:fit:1358/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
 </p>
 <p align = "center"> 
  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp        
@@ -16,13 +16,14 @@
 <!-- website to create this - https://readme-typing-svg.demolab.com/demo/ -->
 <!-- <img height = 50 width= 42 src="https://cdn.dribbble.com/users/1643824/screenshots/3429154/untitled-4.gif" />  -->
 <br>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=aritramukherjeeofficial&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile View Counter" /></p> -->
+<!-- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 <!-- ---------------------------------------------------------------------------- -->
-
  
 ## 💫 About Me:
 <img align="right" height= 150 width= 240 src="https://miro.medium.com/v2/resize:fit:679/1*TlbU0F-waQf7_zOfhUNldQ.gif"/>
 <!-- 🔭 I’m currently working on GenAI<br>👯 I’m looking to collaborate on Open Source Project<br>🤝 I’m looking for help with Industry Project<br>🌱 I’m currently learning Django, GenAI , DL<br>💬 Ask me about Artificial Intelligence -->
-‌🔭 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘎𝘦𝘯𝘈𝘐 ... <br>
+‌🔭 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 Agentic AI ... <br>
 🤝 "𝘐’𝘮 𝘢𝘪𝘮𝘪𝘯𝘨 𝘧𝘰𝘳 𝘢 𝘩𝘪𝘨𝘩-𝘱𝘢𝘺𝘪𝘯𝘨 𝘳𝘰𝘭𝘦 𝘸𝘩𝘦𝘳𝘦 𝘐 𝘤𝘢𝘯 𝘮𝘢𝘬𝘦 𝘢 𝘳𝘦𝘢𝘭 𝘪𝘮𝘱𝘢𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘺 𝘴𝘬𝘪𝘭𝘭𝘴 ...<br>
 👯 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘩𝘦𝘭𝘱 𝘸𝘪𝘵𝘩 𝘐𝘯𝘥𝘶𝘴𝘵𝘳𝘺 𝘗𝘳𝘰𝘫𝘦𝘤𝘵 ...<br>
 🌱 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 𝘋𝘫𝘢𝘯𝘨𝘰, 𝘎𝘦𝘯𝘈𝘐, 𝘋𝘓 ...<br>
@@ -30,15 +31,14 @@
 <!-- ---------------------------------------------------------------------------- -->
 
 ## 🌐 Socials:
- <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](aritramukherjee_official) -->
-<a href="https://arim-official.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%234b0082.svg?logo=internet-explorer&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/aritramukherjeeofficial/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://discord.com/users/am_official_"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"></a>
-<a href="https://x.com/aritramofficial"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-<a href="https://www.instagram.com/aritramukherjee_official/?__pwa=1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/aritra.mukherjee.35762241"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=facebook&logoColor=white"></a>
-<a href="mailto:aritra.work.official@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>
-
+<a href="https://arim-official.netlify.app/"><img src="https://img.icons8.com/?size=100&id=795qk1cgVrmZ&format=png&color=000000" width="45" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/aritramukherjeeofficial/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="45" alt="LinkedIn" /></a>
+<a href="https://topmate.io/aritram_official/"><img src="https://topmate.io/favicon.svg" width="40" alt="Topmate" /></a>
+<a href="https://discord.com/users/am_official_"><img src="https://cdn.simpleicons.org/discord/7289DA" width="40" alt="Discord" /></a>
+<a href="https://www.instagram.com/aritramukherjee_official/?__pwa=1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" alt="Instagram" /></a> 
+<a href="https://www.facebook.com/aritra.mukherjee.35762241"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="38" alt="Facebook" /></a>
+<a href="https://x.com/aritramofficial"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="37" alt="X" /></a>
+<a href="mailto:aritra.work.official@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14634" width="40" alt="Email" /></a>
 <!-- ---------------------------------------------------------------------------- -->
 
   
